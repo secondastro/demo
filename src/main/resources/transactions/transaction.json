@@ -1,0 +1,19 @@
+{
+  "JANUARY": {
+    "0": {
+      "category": "FOOD",
+      "sum": 1,
+      "comment": "Ƹ����"
+    },
+    "1": {
+      "category": "TRANSPORT",
+      "sum": 1,
+      "comment": "�������� ���������"
+    },
+    "2": {
+      "category": "CLOTHES",
+      "sum": 1,
+      "comment": "�����"
+    }
+  }
+}
